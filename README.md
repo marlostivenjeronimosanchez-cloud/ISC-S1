@@ -1,46 +1,46 @@
 # Glosario de Informática - ISC-S1
 
-## Sistema de Cómputo
-Es el conjunto de hardware y software que trabajan juntos para procesar información.
+## **SISTEMAS DE CÓMPUTO**
+El Sistema de Cómputo es la combinación entre Hardware, Software, usuario y datos, que trabajan juntos para recibir información, procesarla y generar resultados útiles.
 
-## Hardware
-Son los componentes físicos de la computadora.
+## *NUBE*
+La nube es un servicio de almacenamiento y procesamiento de información en Internet que permite acceder a datos y programas desde cualquier dispositivo conectado a la red.
 
-## Software
-Son los programas que controlan el hardware.
+## **INTELIGENCIA ARTIFICIAL**
+La Inteligencia Artificial es una rama de la informática que desarrolla sistemas capaces de realizar tareas que normalmente requieren inteligencia humana, como aprender, analizar y tomar decisiones.
 
-## Internet
-Es la red mundial que conecta computadoras para intercambiar información.
+## **CIBERSEGURIDAD**
+La ciberseguridad es el conjunto de prácticas y herramientas que protegen los sistemas informáticos y la información digital contra accesos no autorizados, ataques y daños.
 
-## Nube
-Es un servicio que permite almacenar y acceder a datos por Internet.
+## **BASE DE DATOS**
+Una base de datos es un conjunto organizado de datos almacenados en un sistema informático que permite su consulta, modificación y administración de manera eficiente.
 
-## Inteligencia Artificial
-Es la tecnología que permite a las máquinas imitar la inteligencia humana.
+## **REDES**
+Las redes informáticas son sistemas de comunicación que conectan varios dispositivos para compartir información y recursos mediante cables o señales inalámbricas.
 
-## Ciberseguridad
-Es la protección de sistemas y datos contra ataques digitales.
+## **SERVIDOR**
+Un servidor es un sistema informático que ofrece servicios, datos o recursos a otros equipos conectados en una red.
 
-## Base de Datos
-Es un sistema que organiza y almacena información.
+## **BIG DATA**
+Big Data es el conjunto de datos masivos y complejos que requieren tecnologías avanzadas para su almacenamiento, procesamiento y análisis con el fin de obtener información útil.
 
-## Redes
-Son conexiones entre dispositivos para compartir información.
+## **INTERNET**
+Internet es una red global de redes que permite la comunicación y el intercambio de información entre dispositivos conectados en cualquier parte del mundo.
 
-## Servidor
-Es un equipo que proporciona servicios a otros dispositivos.
+## **HARDWARE**
+El hardware es el conjunto de componentes físicos de un sistema de cómputo que permiten el funcionamiento y procesamiento de la información.
 
-## Big Data
-Son grandes volúmenes de datos que se analizan para obtener información útil.
+## **SOFTWARE**
+El software es el conjunto de programas y sistemas que controlan el funcionamiento del hardware y permiten realizar diferentes tareas en un sistema de cómputo.
 
-## Algoritmo
-Es una secuencia de pasos para resolver un problema.
+## **ALGORITMO**
+Un algoritmo es una secuencia finita de pasos ordenados y definidos que permiten resolver un problema o realizar una tarea específica.
 
-## Usuario
-Es la persona que utiliza un sistema informático.
+## **USUARIO**
+Un usuario es la persona que interactúa con un sistema informático para utilizar sus recursos y realizar diferentes tareas.
 
-## Virtualización
-Es la creación de versiones virtuales de recursos físicos.
+## **VIRTUALIZACIÓN**
+La virtualización es la tecnología que permite crear versiones virtuales de recursos físicos mediante software, optimizando el uso del hardware y facilitando la administración de sistemas.
 
-## Machine Learning
-Es una técnica de IA que permite a las máquinas aprender de los datos.
+## **MACHINE LEARNING**
+El Machine Learning es una técnica de la Inteligencia Artificial que permite a las máquinas aprender de los datos y mejorar su rendimiento sin ser programadas explícitamente para cada tarea.
