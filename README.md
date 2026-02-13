@@ -3,7 +3,7 @@
 ## **SISTEMAS DE CÓMPUTO**
 El Sistema de Cómputo es la combinación entre Hardware, Software, usuario y datos, que trabajan juntos para recibir información, procesarla y generar resultados útiles.
 
-## *NUBE*
+## **NUBE**
 La nube es un servicio de almacenamiento y procesamiento de información en Internet que permite acceder a datos y programas desde cualquier dispositivo conectado a la red.
 
 ## **INTELIGENCIA ARTIFICIAL**
